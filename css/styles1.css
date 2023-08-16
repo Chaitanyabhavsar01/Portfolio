@@ -1,0 +1,45 @@
+
+/* Styles for the button */
+.social-icon1 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #495057; /* Change this to your desired background color */
+    color: #ffffff; /* Change this to your desired text color */
+    border: none;
+    border-radius: 20px; /* This value controls the roundness of the edges */
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+    margin: 20px;
+  }
+  
+  .social-icon1:hover {
+    background-color: #bd5d38; /* Change this to the hover background color */
+    color: #ffffff  ;
+  }
+  
+  /* Optional: Adding a subtle shadow to the button */
+  .dsocial-icon1 {
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+#setmy{
+    margin-top: -20px;
+}
+#setmy1{
+    margin-top: 10px;
+}
+#mysql1{
+  width: 50px;
+  height: 50px;
+  margin-bottom: 15px;
+}
+.skill1{
+  font-size: 25px;
+  margin-top: -10px;
+}
+.skill2{
+  font-size: 20px;
+}
